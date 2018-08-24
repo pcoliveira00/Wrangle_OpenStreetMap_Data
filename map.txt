@@ -1,0 +1,5 @@
+Map Area: Curitiba, PR, Brazil
+
+url: http://metro.teczno.com/#curitiba-brazil
+
+I choose this area because this is a city that I have already visited and I know a little bit more in details than the others. Also, it is a city with a good size, in terms of area, and it has many amenities and features that would be interesting for some analysis.
